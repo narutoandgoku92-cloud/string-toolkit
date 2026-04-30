@@ -22,9 +22,7 @@ This is a Python command-line application that performs useful string operations
 3. Run:
    python main.py
 
-📸 Demo
 
-(Add your screenshot here later)
 
 🧠 What I Learned
 
